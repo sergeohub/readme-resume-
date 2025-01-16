@@ -1,2 +1,9 @@
-# readme-resume-
-This is sergeo bright's -resume on a Readme file 
+-SERGEO BRIGHT .
+-This is sergeo bright's -resume on a Readme file 
+-I am a creative and curious individual passionate about learning and tackling challenges to expand my knowledge. My fascination with computers began in high school, where I discovered how every application and system is programmed to function in specific ways. This inspired me to pursue a career in software programming . I aspire to venture into web development in the future as well.
+- i had my Olevels certificate 2022-2021 at (COBIBOM)LA BONTE
+- A/LEVEL CERTIFICATE:2023-2024 AT APEX TIKO
+- PHONE NUMBER:672218139
+- EMAIL: brightsergeo@gmail.com
+- ADDRESS LOCATION: RAZEL STREET BUEA
+- I GOT NO CLUE ABOUT ICT AND COMPUTER ENGINEERING OR HAVING ANY SKILLS ON ICT .
